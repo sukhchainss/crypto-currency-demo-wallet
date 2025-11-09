@@ -4,7 +4,7 @@ A modern React Native application for managing and viewing cryptocurrency and fi
 
 ## 📱 Demo
 
-![Currency App Demo](./CurrencyAppDemo.gif)
+![Currency App Demo](./CurrencyAppDemoFInal.gif)
 
 *The demo shows the complete workflow: loading data, switching between currency lists, searching, and selecting currencies in the modal interface.*
 
